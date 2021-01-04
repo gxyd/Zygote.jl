@@ -1,5 +1,5 @@
 status = [
-  "ci/buildkite%"
+  "ci/gitlab%"
 ]
 
 timeout-sec = 14400
